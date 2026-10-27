@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Nikita",
+        "age": 20,
+        "temperature": 36.0
+    },
+    {
+        "name": "Nikita",
+        "age": 20,
+        "temperature": 33.0
+    },
+    {
+        "name": "Ram",
+        "age": 50,
+        "temperature": 45.0
+    }
+]
